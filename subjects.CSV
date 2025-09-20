@@ -1,0 +1,15 @@
+subjectId,subjectName,credits,instructor,prerequisiteSubjectId,maxCapacity,currentEnrollment
+05501001,Introduction to Programming,3,Mr. Wittaya Suksan,,30,15
+05501002,Data Structures,3,Mr. Somjai Kengkaj,05501001,25,18
+05501003,Algorithms,3,Mr. Panya Chalard,05501002,20,12
+05501004,Databases,3,Mr. Nipon Robroo,,28,21
+05501005,Computer Networks,3,Mr. Sak Thansamai,,25,22
+05501006,Artificial Intelligence,3,Mr. Anucha Lamna,05501003,15,8
+05501007,Web Development,3,Mr. Suwit Thantrend,05501001,35,25
+05501008,Cyber Security,3,Mr. Teerapong Krang,,20,10
+90691001,Mathematics I,3,Mr. Manit Lekkorm,,40,28
+90691002,Mathematics II,3,Mr. Wichan Sootsumret,90691001,35,30
+90691003,General Physics,3,Mr. Pairoj Rangdueng,,-1,45
+90691004,General Chemistry,3,Mrs. Rossana Thatdee,,-1,38
+05501009,Object-Oriented Programming,3,Mr. Chaiwat Watthudee,05501001,22,16
+05501010,Project Year 1,2,Mr. Sorawit Klongkarn,05501007,18,12
